@@ -1,7 +1,7 @@
-<!DOCTYPE html>
 <html>
 	<head>
-		<title>Techmike2kx, A Microsoft Love Story</title>
+		% Techmike2kx, A Microsoft Love Story
+		=====================================
 	</head>
 	<body>
 		<nav>
