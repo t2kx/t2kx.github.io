@@ -1,7 +1,6 @@
 <html>
 	<head>
 		% Techmike2kx, A Microsoft Love Story
-		=====================================
 	</head>
 	<body>
 		<nav>
